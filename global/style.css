@@ -38,7 +38,7 @@ body {
 }
 
 /* Disabled Scroll Bars */
-.settings-content {
+.settings-content, .cookie-banner {
 	scroll-behavior: smooth;
 	scrollbar-width: none;
 	-ms-overflow-style: none;
