@@ -217,7 +217,9 @@ footer .linkout.nodecoration {
 	bottom: 1rem;
 	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
 	left: 50%;
+	max-height: calc(100% - 2rem);
 	max-width: 800px;
+	overflow: scroll;
 	padding: 2rem;
 	position: fixed;
 	text-align: left;
