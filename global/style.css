@@ -373,6 +373,18 @@ footer .linkout.nodecoration {
 	margin-bottom: 0px;
 }
 
+.cookie-header-bottom > div:nth-child(2) {
+	align-items: center;
+	display: flex;
+	height: 50px;
+}
+
+.cookie-header-bottom > div:nth-child(2) > h2 {
+	margin-bottom: 0rem;
+	margin-block-end: 0px;
+    margin-block-start: 0px;
+}
+
 .category-header {
 	align-items: center;
 	display: flex;
